@@ -22,6 +22,10 @@ K-OS (aka Sneaky Cat) isn't called K-OS that for nothing - he causes absolute ch
 
 During the day and part of the night I let the cats inside the main part of the house ... and the fun and games begin.  Ohhh boy !
 
+## Also see their best friends:
+* Me, the dad, https://github.com/moosevalley/moose-omalley
+* Sammi the Cocker Spaniel - aka Sammi Trailer, https://github.com/moosevalley/sammi
+* Patty Cakes the Fox Terrier, https://github.com/moosevalley/patty-cakes
 
 ### My web page:
 * Moose's Software Valley - Established July, 1996,
